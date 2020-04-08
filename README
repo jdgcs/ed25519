@@ -1,0 +1,5 @@
+As github.com/agl/ed25519/extra25519 is not maintained anymore, this repo is a backup.
+
+And fixed an issue which is mentioned:https://github.com/agl/ed25519/pull/12/commits/602019f68770b37794c1c42ab7163e0b1488824f
+
+So the import changed, "github.com/agl/ed25519/extra25519" => "github.com/jdgcs/ed25519/extra25519" .
